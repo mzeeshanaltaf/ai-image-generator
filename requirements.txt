@@ -1,0 +1,10 @@
+diffusers[torch]
+huggingface_hub
+transformers
+accelerate
+sentencepiece
+protobuf
+streamlit
+torch==2.5.1+cu124
+email-validator
+captcha
